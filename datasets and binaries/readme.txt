@@ -6,4 +6,4 @@ Or, in the case of Java:
 
 java -jar hausdorff.jar 8192dd
 
-All the algorithms were compiled in Release, with full optimizations.
+All the algorithms were compiled in Release, fully optimized.
