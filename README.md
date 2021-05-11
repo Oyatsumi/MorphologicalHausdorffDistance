@@ -5,5 +5,6 @@ The datasets and compiled versions are already available in the "datasets and bi
 Sources are available for 2D and 3D implementations.
 
 This approach is published in the following scientific paper:
+
 An Efficient and Locality-Oriented Hausdorff Distance Algorithm: Proposal and Analysis of Paradigms and Implementations, Pattern Recognition, 2021
 https://www.sciencedirect.com/science/article/abs/pii/S003132032100176X
